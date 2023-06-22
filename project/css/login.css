@@ -1,0 +1,36 @@
+
+        .error {
+            color: red;
+        }
+
+        body {
+            padding: 0;
+            margin: 0;
+            height: 100vh;
+            background: #c6d0c1 url("../images/logo.svg") no-repeat;
+            background-size: cover;
+        }
+
+        .login {
+            display: flex;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .login>form {
+            padding: 20px;
+            background-color: #dcead91c;
+            box-shadow: 3px 4px 15px rgb(183, 183, 183),
+                -3px -4px 15px rgb(183, 183, 183);
+            border-radius: 10px;
+            border: 2px solid #6db51a;
+        }
+
+        form p:first-of-type {
+            color: #6db51a;
+        }
+
+        .lightgreen {
+            color: white;
+            background-color: #6db51a;
+        }

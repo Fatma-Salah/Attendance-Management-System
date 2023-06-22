@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee page</title>
+      <!-- ///bs  --> 
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous" />
+    <!-- sweet alert library   -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.7.3/dist/sweetalert2.all.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/sweetalert2@11.7.3/dist/sweetalert2.min.css" rel="stylesheet">
+   
+   <style>
+        .excused{
+            background-color: red;
+            opacity: .4;
+        }
+        .employee{
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-5 bg-light py-3 rounded-3 d-flex justify-content-center">
+        <a class=" btn btn-warning me-5" href="employeeInfo.html"> Show Information About Me </a>
+        <button id="log_out" class="btn btn-warning">logout</button> 
+      </div>
+    <div class="container">
+        <div class=" py-3">
+            <table class="table table-striped table-hover table-bordered ">
+                <thead>
+                    <tr class="bg-warning">
+                        <th ><button class="btn btn-outline-danger m-auto d-block " data-bs-toggle="collapse" data-bs-target="#collapseWidthExample" aria-expanded="true" aria-controls="collapseWidthExample">Daily Reports </button></th>
+                        <th ><button class="btn btn-outline-danger m-auto d-block " data-bs-toggle="collapse" data-bs-target="#collapseWidthExample2" aria-expanded="true" aria-controls="collapseWidthExample2">Monthly Reports </button></th>
+                       
+                    </tr>
+                </thead> 
+                <tbody>
+                    <tr>
+                        <td>
+                            <table class="dailyReport table table-striped table-hover collapse show" id="collapseWidthExample">
+                                <thead>
+                                    <tr>
+                                        <th>Report name</th>
+                                        <th>Report deadline</th>
+                                        <th>UpLoad</th>
+                                        <th>Excuse</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                  
+                                </tbody>
+                            </table>
+                        </td>
+                        
+                        <td>
+                            <table class="monthlyReport table table-striped table-hover  collapse show" id="collapseWidthExample2">
+                                <thead>
+                                    <tr>
+                                        <th>Report name</th>
+                                        <th>Report deadline</th>
+                                        <th>UpLoad</th>
+                                        <th>Excuse</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                   
+                                </tbody>
+                            </table>
+                        </td>
+                        
+                    </tr>
+                </tbody>   
+            </table>
+        </div>
+    </div>
+
+    <!-- ///bs  -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+ <script src="js/addTasksToEmployeePage.js"></script>
+ <script src="js/logOut.js"></script>
+</body>
+</html>

@@ -1,0 +1,1552 @@
+{
+  "Employees": [
+    {
+      "first_name": "Ali",
+      "last_name": "ALaa",
+      "email": "ali@gmail.com",
+      "age": "20",
+      "address": "cairo",
+      "job_title": "UI-UX developer",
+      "user_name": "ali44",
+      "password": "12345678",
+      "registeration_day": "2023-04-26",
+      "id": 1,
+      "state": "user",
+      "absence_count": [],
+      "late_count": [
+        {
+          "lateLoginDate": "4:29:52 PM",
+          "lateLoginDateDay": "5/1/2023"
+        }
+      ],
+      "present_count": [
+        {
+          "lateLoginDate": "4:29:52 PM",
+          "lateLoginDateDay": "5/1/2023"
+        }
+      ],
+      "late_reports": [
+        {
+          "report_name": "task14/3/2023",
+          "specifiedReportDate": "4/3/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task24/10/2023",
+          "specifiedReportDate": "4/10/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task34/20/2023",
+          "specifiedReportDate": "4/20/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task64/1/2023",
+          "specifiedReportDate": "4/1/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task14",
+          "specifiedReportDate": "April",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task44/30/2023",
+          "specifiedReportDate": "4/30/2023",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task74/30/2023",
+          "specifiedReportDate": "4/30/2023",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task54/9/2023",
+          "specifiedReportDate": "4/9/2023",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task32",
+          "specifiedReportDate": "February",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        }
+      ],
+      "excuse_reports": [
+        {
+          "report_name": "task44/30/2023",
+          "specifiedReportDate": "4/30/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task54/9/2023",
+          "specifiedReportDate": "4/9/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task14",
+          "specifiedReportDate": "April",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "day85/8/2023",
+          "specifiedReportDate": "5/8/2023",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        }
+      ],
+      "full_reports": [
+        {
+          "report_name": "task14/3/2023",
+          "specifiedReportDate": "4/3/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task24/10/2023",
+          "specifiedReportDate": "4/10/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task34/20/2023",
+          "specifiedReportDate": "4/20/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task64/1/2023",
+          "specifiedReportDate": "4/1/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task25",
+          "specifiedReportDate": "May",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task14",
+          "specifiedReportDate": "April",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task44/30/2023",
+          "specifiedReportDate": "4/30/2023",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task74/30/2023",
+          "specifiedReportDate": "4/30/2023",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task54/9/2023",
+          "specifiedReportDate": "4/9/2023",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "day85/8/2023",
+          "specifiedReportDate": "5/8/2023",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task32",
+          "specifiedReportDate": "February",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        }
+      ],
+      "logout_time": "12:14:21 AM at  5/9/2023"
+    },
+    {
+      "first_name": "fatma",
+      "last_name": "salah",
+      "email": "fatmsalah767@gmail.com",
+      "age": "40",
+      "address": "cairo",
+      "job_title": "Admin",
+      "user_name": "123_fatma",
+      "password": "12345678",
+      "registeration_day": "2023-04-26",
+      "id": 2,
+      "state": "admin",
+      "absence_count": [],
+      "late_count": [
+        {
+          "lateLoginDate": "4:19:30 PM",
+          "lateLoginDateDay": "5/15/2023"
+        }
+      ],
+      "present_count": [
+        {
+          "lateLoginDate": "2:54:36 PM",
+          "lateLoginDateDay": "5/2/2023"
+        }
+      ],
+      "late_reports": [
+        {
+          "report_name": "task34/20/2023",
+          "specifiedReportDate": "4/20/2023",
+          "uploadDate_day": "5/2/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task14/3/2023",
+          "specifiedReportDate": "4/3/2023",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task24/10/2023",
+          "specifiedReportDate": "4/10/2023",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task14",
+          "specifiedReportDate": "April",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task32",
+          "specifiedReportDate": "February",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task44/30/2023",
+          "specifiedReportDate": "4/30/2023",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        }
+      ],
+      "excuse_reports": [
+        {
+          "report_name": "task14/3/2023",
+          "specifiedReportDate": "4/3/2023",
+          "uploadDate_day": "5/2/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task44/30/2023",
+          "specifiedReportDate": "4/30/2023",
+          "uploadDate_day": "5/2/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task25",
+          "specifiedReportDate": "May",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task74/30/2023",
+          "specifiedReportDate": "4/30/2023",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        }
+      ],
+      "full_reports": [
+        {
+          "report_name": "task34/20/2023",
+          "specifiedReportDate": "4/20/2023",
+          "uploadDate_day": "5/2/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task14/3/2023",
+          "specifiedReportDate": "4/3/2023",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task24/10/2023",
+          "specifiedReportDate": "4/10/2023",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "day85/8/2023",
+          "specifiedReportDate": "5/8/2023",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task14",
+          "specifiedReportDate": "April",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task25",
+          "specifiedReportDate": "May",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task32",
+          "specifiedReportDate": "February",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task44/30/2023",
+          "specifiedReportDate": "4/30/2023",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        }
+      ],
+      "logout_time": "12:09:52 AM at  5/9/2023"
+    },
+    {
+      "first_name": "yasmen",
+      "last_name": "salah",
+      "email": "yasmen@gmail.com",
+      "age": "20",
+      "address": "cairo",
+      "job_title": "react developer",
+      "user_name": "yasmen123",
+      "password": "12345678",
+      "registeration_day": "2023-04-26",
+      "id": 3,
+      "state": "user",
+      "absence_count": [],
+      "late_count": [
+        {
+          "lateLoginDate": "9:33:56 AM",
+          "lateLoginDateDay": "3/1/2023"
+        },
+        {
+          "lateLoginDate": "11:03:56 AM",
+          "lateLoginDateDay": "4/5/2023"
+        },
+        {
+          "lateLoginDate": "11:33:56 AM",
+          "lateLoginDateDay": "4/1/2023"
+        },
+        {
+          "lateLoginDate": "9:53:56 AM",
+          "lateLoginDateDay": "4/5/2023"
+        }
+      ],
+      "present_count": [],
+      "late_reports": [
+        {
+          "report_name": "task14/3/2023",
+          "specifiedReportDate": "4/3/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task44/30/2023",
+          "specifiedReportDate": "4/30/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task14",
+          "specifiedReportDate": "April",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        }
+      ],
+      "excuse_reports": [],
+      "full_reports": [
+        {
+          "report_name": "task14/3/2023",
+          "specifiedReportDate": "4/3/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task44/30/2023",
+          "specifiedReportDate": "4/30/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task14",
+          "specifiedReportDate": "April",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        }
+      ],
+      "date_Attendance": "12:42:45 AM"
+    },
+    {
+      "first_name": "Ahmed",
+      "last_name": "Ali",
+      "email": "ahmed@gmail.com",
+      "age": "23",
+      "address": "cairo",
+      "job_title": "react developer",
+      "user_name": "ahmed123",
+      "password": "12345678",
+      "registeration_day": "2023-04-26",
+      "id": 4,
+      "state": "user",
+      "absence_count": [],
+      "late_count": [],
+      "present_count": [],
+      "late_reports": [
+        {
+          "report_name": "task24/10/2023",
+          "specifiedReportDate": "4/10/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task32",
+          "specifiedReportDate": "February",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task14",
+          "specifiedReportDate": "April",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task64/1/2023",
+          "specifiedReportDate": "4/1/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task74/30/2023",
+          "specifiedReportDate": "4/30/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        }
+      ],
+      "excuse_reports": [
+        {
+          "report_name": "task14",
+          "specifiedReportDate": "April",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task25",
+          "specifiedReportDate": "May",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task32",
+          "specifiedReportDate": "February",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task54/9/2023",
+          "specifiedReportDate": "4/9/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task24/10/2023",
+          "specifiedReportDate": "4/10/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task64/1/2023",
+          "specifiedReportDate": "4/1/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task34/20/2023",
+          "specifiedReportDate": "4/20/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task74/30/2023",
+          "specifiedReportDate": "4/30/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task44/30/2023",
+          "specifiedReportDate": "4/30/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task14/3/2023",
+          "specifiedReportDate": "4/3/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        }
+      ],
+      "full_reports": [
+        {
+          "report_name": "task24/10/2023",
+          "specifiedReportDate": "4/10/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task32",
+          "specifiedReportDate": "February",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task14",
+          "specifiedReportDate": "April",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task25",
+          "specifiedReportDate": "May",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task64/1/2023",
+          "specifiedReportDate": "4/1/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task74/30/2023",
+          "specifiedReportDate": "4/30/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        }
+      ]
+    },
+    {
+      "first_name": "fatma",
+      "last_name": "Emam",
+      "email": "fatmasalah@gmail.com",
+      "age": "25",
+      "address": "cairo",
+      "job_title": ".net",
+      "password": "12345678",
+      "registeration_day": "2023-04-29",
+      "state": "user",
+      "id": 6,
+      "user_name": "2somd43n",
+      "absence_count": [],
+      "late_count": [
+        {
+          "lateLoginDate": "4:03:56 PM",
+          "lateLoginDateDay": "5/1/2023"
+        },
+        {
+          "lateLoginDate": "5:03:56 PM",
+          "lateLoginDateDay": "4/5/2023"
+        }
+      ],
+      "present_count": [
+        {
+          "lateLoginDate": "4:03:55 PM",
+          "lateLoginDateDay": "5/1/2023"
+        }
+      ],
+      "late_reports": [],
+      "excuse_reports": [],
+      "full_reports": [],
+      "count": {}
+    },
+    {
+      "first_name": "kamilia",
+      "last_name": "salah",
+      "email": "k@gmail.com",
+      "age": "25",
+      "address": "Talkha",
+      "job_title": "react developer",
+      "password": "12345678",
+      "registeration_day": "2023-04-29",
+      "state": "user",
+      "id": 8,
+      "user_name": "qm5aj3w3",
+      "absence_count": [],
+      "late_count": [],
+      "present_count": [],
+      "late_reports": [
+        {
+          "report_name": "task14/3/2023",
+          "specifiedReportDate": "4/3/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task34/20/2023",
+          "specifiedReportDate": "4/20/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task64/1/2023",
+          "specifiedReportDate": "4/1/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        }
+      ],
+      "excuse_reports": [
+        {
+          "report_name": "task14",
+          "specifiedReportDate": "April",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        }
+      ],
+      "full_reports": [
+        {
+          "report_name": "task14/3/2023",
+          "specifiedReportDate": "4/3/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task34/20/2023",
+          "specifiedReportDate": "4/20/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task64/1/2023",
+          "specifiedReportDate": "4/1/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task25",
+          "specifiedReportDate": "May",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        }
+      ],
+      "logout_time": "6:16:50 PM"
+    },
+    {
+      "first_name": "fatma",
+      "last_name": "mohamed",
+      "email": "fatm7@gmail.com",
+      "age": "29",
+      "address": "Talkha",
+      "job_title": "react developer",
+      "password": "87654321",
+      "registeration_day": "2023-04-29",
+      "state": "user",
+      "id": 9,
+      "user_name": "y7bt0taf",
+      "absence_count": [],
+      "late_count": [],
+      "present_count": [],
+      "late_reports": [
+        {
+          "report_name": "task14/3/2023",
+          "specifiedReportDate": "4/3/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task24/10/2023",
+          "specifiedReportDate": "4/10/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task34/20/2023",
+          "specifiedReportDate": "4/20/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task44/30/2023",
+          "specifiedReportDate": "4/30/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task14",
+          "specifiedReportDate": "April",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task64/1/2023",
+          "specifiedReportDate": "4/1/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        }
+      ],
+      "excuse_reports": [
+        {
+          "report_name": "task25",
+          "specifiedReportDate": "May",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task32",
+          "specifiedReportDate": "February",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        }
+      ],
+      "full_reports": [
+        {
+          "report_name": "task14/3/2023",
+          "specifiedReportDate": "4/3/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task24/10/2023",
+          "specifiedReportDate": "4/10/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task34/20/2023",
+          "specifiedReportDate": "4/20/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task44/30/2023",
+          "specifiedReportDate": "4/30/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task14",
+          "specifiedReportDate": "April",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task64/1/2023",
+          "specifiedReportDate": "4/1/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        }
+      ],
+      "logout_time": "6:19:06 PM"
+    },
+    {
+      "first_name": "Alaa",
+      "last_name": "salah",
+      "email": "Alaa@gmail.com",
+      "age": "39",
+      "address": "Talkha",
+      "job_title": "react developer",
+      "password": "12345678",
+      "registeration_day": "2023-04-29",
+      "state": "user",
+      "id": 10,
+      "user_name": "d9v7jztk",
+      "absence_count": [],
+      "late_count": [],
+      "present_count": [],
+      "late_reports": [
+        {
+          "report_name": "task24/10/2023",
+          "specifiedReportDate": "4/10/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task54/9/2023",
+          "specifiedReportDate": "4/9/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        }
+      ],
+      "excuse_reports": [
+        {
+          "report_name": "task34/20/2023",
+          "specifiedReportDate": "4/20/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task64/1/2023",
+          "specifiedReportDate": "4/1/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task14",
+          "specifiedReportDate": "April",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        }
+      ],
+      "full_reports": [
+        {
+          "report_name": "task24/10/2023",
+          "specifiedReportDate": "4/10/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task54/9/2023",
+          "specifiedReportDate": "4/9/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        }
+      ],
+      "logout_time": "6:20:52 PM"
+    },
+    {
+      "first_name": "sally",
+      "last_name": "salah",
+      "email": "salah@gmail.com",
+      "age": "25",
+      "address": "Talkha",
+      "job_title": "react developer",
+      "password": "12345678",
+      "registeration_day": "2023-04-29",
+      "state": "user",
+      "id": 11,
+      "user_name": "s-qcak8u",
+      "absence_count": [],
+      "late_count": [],
+      "present_count": [],
+      "late_reports": [
+        {
+          "report_name": "task44/30/2023",
+          "specifiedReportDate": "4/30/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task14/3/2023",
+          "specifiedReportDate": "4/3/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task14",
+          "specifiedReportDate": "April",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task32",
+          "specifiedReportDate": "February",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        }
+      ],
+      "excuse_reports": [
+        {
+          "report_name": "task34/20/2023",
+          "specifiedReportDate": "4/20/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        }
+      ],
+      "full_reports": [
+        {
+          "report_name": "task44/30/2023",
+          "specifiedReportDate": "4/30/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task14/3/2023",
+          "specifiedReportDate": "4/3/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task14",
+          "specifiedReportDate": "April",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task25",
+          "specifiedReportDate": "May",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task32",
+          "specifiedReportDate": "February",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        }
+      ],
+      "logout_time": "6:23:46 PM"
+    },
+    {
+      "first_name": "Toqa",
+      "last_name": "salah",
+      "email": "fa@gmail.com",
+      "age": "25",
+      "address": "Talkha",
+      "job_title": "react developer",
+      "password": "12345678",
+      "registeration_day": "2023-04-29",
+      "state": "user",
+      "id": 12,
+      "user_name": "434y9n/4",
+      "absence_count": [],
+      "late_count": [],
+      "present_count": [],
+      "late_reports": [],
+      "excuse_reports": [],
+      "full_reports": []
+    },
+    {
+      "first_name": "Aya",
+      "last_name": "Ali",
+      "email": "aya@gmail.com",
+      "age": "20",
+      "address": "giza",
+      "job_title": ".net developer",
+      "password": "12345678",
+      "registeration_day": "2023-04-29",
+      "state": "user",
+      "id": 16
+    },
+    {
+      "first_name": "soha",
+      "last_name": "Ali",
+      "email": "soha@gmail.com",
+      "age": "29",
+      "address": "cairo",
+      "job_title": "react developer",
+      "password": "12345678",
+      "registeration_day": "2023-04-29",
+      " state": "user",
+      "id": 19,
+      "user_name": "l87pc33f",
+      "absence_count": [],
+      "late_count": [],
+      "present_count": [],
+      "late_reports": [],
+      "excuse_reports": [],
+      "full_reports": []
+    },
+    {
+      "first_name": "samy",
+      "last_name": "samir",
+      "email": "s@gmail.com",
+      "age": "23",
+      "address": "cairo",
+      "job_title": ".net",
+      "password": "12344321",
+      "registeration_day": "2023-04-29",
+      "state": "user",
+      "id": 20,
+      "user_name": "uumevpgb",
+      "absence_count": [],
+      "late_count": [],
+      "present_count": [],
+      "late_reports": [],
+      "excuse_reports": [],
+      "full_reports": []
+    },
+    {
+      "first_name": "yara",
+      "last_name": "Adel",
+      "email": "yara@gmail.com",
+      "age": "26",
+      "address": "tanta",
+      "job_title": "Web designer",
+      "password": "12345678",
+      "registeration_day": "2023-04-29",
+      "state": "user",
+      "id": 21,
+      "user_name": "7o1a0x56",
+      "absence_count": [],
+      "late_count": [],
+      "present_count": [],
+      "late_reports": [],
+      "excuse_reports": [],
+      "full_reports": []
+    },
+    {
+      "first_name": "ramy",
+      "last_name": "hamada",
+      "email": "ramy@gmail.com",
+      "age": "9",
+      "address": "Talkha",
+      "job_title": "Web designer",
+      "password": "12345678",
+      "registeration_day": "2023-04-29",
+      "state": "user",
+      "id": 22,
+      "user_name": "zx/jtjg0",
+      "absence_count": [],
+      "late_count": [],
+      "present_count": [],
+      "late_reports": [],
+      "excuse_reports": [],
+      "full_reports": []
+    },
+    {
+      "first_name": "shymaa",
+      "last_name": "mohsen",
+      "email": "sh@gmail.com",
+      "age": "43",
+      "address": "Talkha",
+      "job_title": "Web designer",
+      "password": "12345678",
+      "registeration_day": "2023-05-01",
+      "state": "user",
+      "id": 23,
+      "user_name": "qv3ory94",
+      "absence_count": [],
+      "late_count": [],
+      "present_count": [],
+      "late_reports": [],
+      "excuse_reports": [],
+      "full_reports": []
+    },
+    {
+      "first_name": "noha",
+      "last_name": "ahmed",
+      "email": "nohaa@gmail.com",
+      "age": "45",
+      "address": "giza",
+      "job_title": "react developer",
+      "password": "12345678",
+      "registeration_day": "2023-05-08",
+      "state": "user",
+      "id": 27,
+      "user_name": "uss/n/t1",
+      "absence_count": [],
+      "late_count": [],
+      "present_count": [],
+      "late_reports": [],
+      "excuse_reports": [],
+      "full_reports": []
+    },
+    {
+      "first_name": "Asmaa",
+      "last_name": "ahmed",
+      "email": "a@gmail.com",
+      "age": "22",
+      "address": "cairo",
+      "job_title": "Web designer",
+      "password": "12345678",
+      "registeration_day": "2023-05-23",
+      "state": "user",
+      "id": 28,
+      "user_name": "hcbc606p",
+      "absence_count": [],
+      "late_count": [],
+      "present_count": [],
+      "late_reports": [],
+      "excuse_reports": [],
+      "full_reports": []
+    }
+  ],
+  "LoginEmp": [
+    {
+      "first_name": "fatma",
+      "last_name": "salah",
+      "email": "fatmsalah767@gmail.com",
+      "age": "40",
+      "address": "cairo",
+      "job_title": "Admin",
+      "user_name": "123_fatma",
+      "password": "12345678",
+      "registeration_day": "2023-04-26",
+      "id": 2,
+      "state": "admin",
+      "absence_count": [],
+      "late_count": [
+        {
+          "lateLoginDate": "4:19:30 PM",
+          "lateLoginDateDay": "5/15/2023"
+        }
+      ],
+      "present_count": [
+        {
+          "lateLoginDate": "2:54:36 PM",
+          "lateLoginDateDay": "5/2/2023"
+        }
+      ],
+      "late_reports": [
+        {
+          "report_name": "task34/20/2023",
+          "specifiedReportDate": "4/20/2023",
+          "uploadDate_day": "5/2/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task14/3/2023",
+          "specifiedReportDate": "4/3/2023",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task24/10/2023",
+          "specifiedReportDate": "4/10/2023",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task14",
+          "specifiedReportDate": "April",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task32",
+          "specifiedReportDate": "February",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task44/30/2023",
+          "specifiedReportDate": "4/30/2023",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        }
+      ],
+      "excuse_reports": [
+        {
+          "report_name": "task14/3/2023",
+          "specifiedReportDate": "4/3/2023",
+          "uploadDate_day": "5/2/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task44/30/2023",
+          "specifiedReportDate": "4/30/2023",
+          "uploadDate_day": "5/2/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task25",
+          "specifiedReportDate": "May",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task74/30/2023",
+          "specifiedReportDate": "4/30/2023",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        }
+      ],
+      "full_reports": [
+        {
+          "report_name": "task34/20/2023",
+          "specifiedReportDate": "4/20/2023",
+          "uploadDate_day": "5/2/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task14/3/2023",
+          "specifiedReportDate": "4/3/2023",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task24/10/2023",
+          "specifiedReportDate": "4/10/2023",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "day85/8/2023",
+          "specifiedReportDate": "5/8/2023",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task14",
+          "specifiedReportDate": "April",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task25",
+          "specifiedReportDate": "May",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task32",
+          "specifiedReportDate": "February",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task44/30/2023",
+          "specifiedReportDate": "4/30/2023",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        }
+      ],
+      "logout_time": "12:09:52 AM at  5/9/2023",
+      "login_day": "2023-05-23",
+      "login_time": "10:13:50 AM",
+      "date_Attendance": "10:18:41 AM"
+    },
+    {
+      "first_name": "Ali",
+      "last_name": "ALaa",
+      "email": "ali@gmail.com",
+      "age": "20",
+      "address": "cairo",
+      "job_title": "UI-UX developer",
+      "user_name": "ali44",
+      "password": "12345678",
+      "registeration_day": "2023-04-26",
+      "id": 1,
+      "state": "user",
+      "absence_count": [],
+      "late_count": [
+        {
+          "lateLoginDate": "4:29:52 PM",
+          "lateLoginDateDay": "5/1/2023"
+        }
+      ],
+      "present_count": [
+        {
+          "lateLoginDate": "4:29:52 PM",
+          "lateLoginDateDay": "5/1/2023"
+        }
+      ],
+      "late_reports": [
+        {
+          "report_name": "task14/3/2023",
+          "specifiedReportDate": "4/3/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task24/10/2023",
+          "specifiedReportDate": "4/10/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task34/20/2023",
+          "specifiedReportDate": "4/20/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task64/1/2023",
+          "specifiedReportDate": "4/1/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task14",
+          "specifiedReportDate": "April",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task44/30/2023",
+          "specifiedReportDate": "4/30/2023",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task74/30/2023",
+          "specifiedReportDate": "4/30/2023",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task54/9/2023",
+          "specifiedReportDate": "4/9/2023",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task32",
+          "specifiedReportDate": "February",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        }
+      ],
+      "excuse_reports": [
+        {
+          "report_name": "task44/30/2023",
+          "specifiedReportDate": "4/30/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task54/9/2023",
+          "specifiedReportDate": "4/9/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task14",
+          "specifiedReportDate": "April",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "day85/8/2023",
+          "specifiedReportDate": "5/8/2023",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        }
+      ],
+      "full_reports": [
+        {
+          "report_name": "task14/3/2023",
+          "specifiedReportDate": "4/3/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task24/10/2023",
+          "specifiedReportDate": "4/10/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task34/20/2023",
+          "specifiedReportDate": "4/20/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task64/1/2023",
+          "specifiedReportDate": "4/1/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task25",
+          "specifiedReportDate": "May",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task14",
+          "specifiedReportDate": "April",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task44/30/2023",
+          "specifiedReportDate": "4/30/2023",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task74/30/2023",
+          "specifiedReportDate": "4/30/2023",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task54/9/2023",
+          "specifiedReportDate": "4/9/2023",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "day85/8/2023",
+          "specifiedReportDate": "5/8/2023",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task32",
+          "specifiedReportDate": "February",
+          "uploadDate_day": "5/8/2023",
+          "uploadDate_month": 4
+        }
+      ],
+      "logout_time": "12:14:21 AM at  5/9/2023",
+      "login_day": "2023-05-08",
+      "login_time": "12:14:32 AM",
+      "date_Attendance": "12:14:33 AM"
+    },
+    {
+      "first_name": "yasmen",
+      "last_name": "salah",
+      "email": "yasmen@gmail.com",
+      "age": "20",
+      "address": "cairo",
+      "job_title": "react developer",
+      "user_name": "yasmen123",
+      "password": "12345678",
+      "registeration_day": "2023-04-26",
+      "id": 3,
+      "state": "user",
+      "absence_count": [],
+      "late_count": [
+        {
+          "lateLoginDate": "9:33:56 AM",
+          "lateLoginDateDay": "3/1/2023"
+        },
+        {
+          "lateLoginDate": "11:03:56 AM",
+          "lateLoginDateDay": "4/5/2023"
+        },
+        {
+          "lateLoginDate": "11:33:56 AM",
+          "lateLoginDateDay": "4/1/2023"
+        },
+        {
+          "lateLoginDate": "9:53:56 AM",
+          "lateLoginDateDay": "4/5/2023"
+        }
+      ],
+      "present_count": [],
+      "late_reports": [
+        {
+          "report_name": "task14/3/2023",
+          "specifiedReportDate": "4/3/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task44/30/2023",
+          "specifiedReportDate": "4/30/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task14",
+          "specifiedReportDate": "April",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        }
+      ],
+      "excuse_reports": [],
+      "full_reports": [
+        {
+          "report_name": "task14/3/2023",
+          "specifiedReportDate": "4/3/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task44/30/2023",
+          "specifiedReportDate": "4/30/2023",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        },
+        {
+          "report_name": "task14",
+          "specifiedReportDate": "April",
+          "uploadDate_day": "5/1/2023",
+          "uploadDate_month": 4
+        }
+      ],
+      "login_day": "2023-05-08",
+      "login_time": "12:18:43 AM"
+    },
+    {
+      "first_name": "Asmaa",
+      "last_name": "ahmed",
+      "email": "a@gmail.com",
+      "age": "22",
+      "address": "cairo",
+      "job_title": "Web designer",
+      "password": "12345678",
+      "registeration_day": "2023-05-23",
+      "state": "user",
+      "id": 28,
+      "user_name": "hcbc606p",
+      "absence_count": [],
+      "late_count": [],
+      "present_count": [],
+      "late_reports": [],
+      "excuse_reports": [],
+      "full_reports": [],
+      "login_day": "2023-05-23",
+      "login_time": "10:16:56 AM",
+      "date_Attendance": "10:17:00 AM"
+    }
+  ],
+  "daily_report": [
+    {
+      "description": "task1",
+      "date": "4/3/2023",
+      "id": 1
+    },
+    {
+      "description": "task2",
+      "date": "4/10/2023",
+      "id": 2
+    },
+    {
+      "description": "task3",
+      "date": "4/20/2023",
+      "id": 3
+    },
+    {
+      "description": "task4",
+      "date": "4/30/2023",
+      "id": 4
+    },
+    {
+      "description": "task5",
+      "date": "4/9/2023",
+      "id": 5
+    },
+    {
+      "description": "task6",
+      "date": "4/1/2023",
+      "id": 7
+    },
+    {
+      "description": "task7",
+      "date": "4/30/2023",
+      "id": 8
+    },
+    {
+      "description": "day8",
+      "date": "5/8/2023",
+      "id": 9
+    }
+  ],
+  "monthly_report": [
+    {
+      "description": "task1",
+      "date": 4,
+      "id": 1
+    },
+    {
+      "description": "task2",
+      "date": 5,
+      "id": 2
+    },
+    {
+      "description": "task3",
+      "date": 2,
+      "id": 3
+    }
+  ]
+}

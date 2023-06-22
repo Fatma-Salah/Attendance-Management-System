@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration </title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+     <!-- sweet alert library   -->
+     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.7.3/dist/sweetalert2.all.min.js"></script>
+     <link href="https://cdn.jsdelivr.net/npm/sweetalert2@11.7.3/dist/sweetalert2.min.css" rel="stylesheet">
+    <style>
+        body{
+            background:#c6d0c1 url('images/Lovepik_com-401375405-man-learning-icon-free-vector-illustration-material.png') no-repeat;
+            background-size: contain;
+        }
+
+        .error {
+            color: red;
+        }
+        .parent{
+            min-height: 100vh;
+            box-shadow:2px 2px 13px #cbc5c5, -2px -2px 14px 0px #cbc5c5;
+            background-color: #f3f3f36e;
+            border-radius: 10px;
+            padding: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: end !important;
+        }
+       
+    </style>
+</head>
+<body>
+    <div class=" parent">
+        <div class="bg-light col-12 rounded-4  col-md-6 p-5 mt-2 ">
+            <form id="registration-form" method="post">
+                <div class="form-group">
+                    <label for="Fname" class="form-label">First Name:</label>
+                    <input type="text" class="form-control" id="Fname" placeholder="Enter first name" name="Fname">
+                    <span class="error" id="Fname-error"></span>
+                </div>
+                <div class="form-group">
+                    <label for="Lname" class="form-label">Last Name:</label>
+                    <input type="text" class="form-control" id="Lname" placeholder="Enter last name" name="Lname">
+                    <span class="error" id="Lname-error"></span>
+                </div>
+                <div class="form-group">
+                    <label for="email" class="form-label">Email:</label>
+                    <input type="email" class="form-control" id="email" placeholder="Enter email" name="email">
+                    <span class="error" id="email-error"></span>
+                </div>
+                <div class="form-group">
+                    <label for="age" class="form-label">Age : </label>
+                    <input type="number" class="form-control" id="age" placeholder="Enter Age" name="age">
+                    <span class="error" id="age-error"></span>
+                </div>
+                <div class="form-group">
+                    <label for="address" class="form-label">Address : </label>
+                    <input type="text" class="form-control" id="address" placeholder="Enter Address" name="address">
+                    <span class="error" id="address-error"></span>
+                </div>
+                <div class="form-group">
+                    <label for="job_title" class="form-label">Job Title : </label>
+                    <input type="text" class="form-control" id="job_title" placeholder="Enter Job title" name="job_title">
+                    <span class="error" id="job-title-error"></span>
+                </div>
+                <div class="form-group">
+                    <label for="password" class="form-label">Password:</label>
+                    <input type="password" class="form-control" id="password" placeholder="Enter password" name="password">
+                    <span class="error" id="password-error"></span>
+                </div>
+                <div class="form-group">
+                    <label for="confirm_password" class="form-label">Confirm Password:</label>
+                    <input type="password" class="form-control" id="confirm_password" placeholder="Confirm password" name="confirm_password">
+                    <span class="error" id="confirm-password-error"></span>
+                </div>
+               
+                <button type="submit  " class="btn btn-success mt-2 m-auto d-block">Submit</button>
+            </form>
+        </div>
+    </div>
+  
+
+<script src="js/register.js"></script>
+<!-- ///bs  -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+ 
+</body>
+</html>

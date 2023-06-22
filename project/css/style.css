@@ -1,0 +1,44 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.logo{
+    height: 50px;
+
+}
+.logoText{
+    font-size: 30px;
+font-weight: bold;
+color: transparent;
+background-clip: text;
+background: linear-gradient(-44deg, #b68d13, #144807);
+-webkit-background-clip:text;
+
+}
+.dropdown-menu{border: 1px solid green !important;}
+.body { 
+    min-height: 90vh;
+    background :#c6d0c1 url('../images/layout.webp') no-repeat;
+    background-size: cover;
+    
+}
+
+
+.content{
+    letter-spacing: 3px;
+    height: 100%;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.content p:first-child{
+    letter-spacing: 10px;
+    font-weight: bold;
+}
+.content p:not(:last-child){
+    color: #223a29;
+}
